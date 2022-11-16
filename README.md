@@ -1,2 +1,2 @@
-# Default Django
-A default Django starter project that has env variables, and a custom user model with email address as username.
+# Default Django API
+This is a default Django API with Django Rest Framework, a custom user model using the email address as a login, and JWT for authentication.
